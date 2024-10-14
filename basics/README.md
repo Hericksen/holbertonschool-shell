@@ -1,6 +1,7 @@
 Shell basics project
 
 Script 0 :  Prints the absolute path name of the current working director.
+
 Script 1 : Display the contents list of your current directory.
 Script 2 : Changes the working directory to the user’s home directory.
 Script 3 : Display current directory contents in a long format.
