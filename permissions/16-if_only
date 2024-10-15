@@ -1,2 +1,2 @@
 #!/bin/bash
-if id  guillaume -exec chown vincent hello
+chown --from=guillaume vincent hello
