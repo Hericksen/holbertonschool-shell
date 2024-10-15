@@ -1,2 +1,2 @@
 #!/bin/bash
-if ! guillaume -exec chown vincent hello
+if id  guillaume -exec chown vincent hello
